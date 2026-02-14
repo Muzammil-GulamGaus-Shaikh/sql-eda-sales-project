@@ -1,15 +1,80 @@
-# SQL Sales Analytics Project
+# SQL EDA Sales Analytics Project
 
-## 1. Project Overview
-This project focuses on analyzing sales data using SQL on a structured, warehouse-style dataset.
-The goal is to perform exploratory data analysis (EDA) to understand the data, answer key business questions, and generate meaningful insights related to sales performance, customers, and products.
+## Project Summary
+This project demonstrates an end-to-end **Exploratory Data Analysis (EDA)** workflow using **SQL** on a structured sales data warehouse. It captures key business metrics, analyzes trends, and provides insights into customer, product, and revenue behavior using real analytical queries.
 
-## 🔍 What this project demonstrates
+The focus of this project is to showcase practical SQL skills used in real business analysis — such as aggregations, joins, grouping, ranking, and time-based trend analysis — which are essential for **Data Analyst** roles.
 
-* Working with a warehouse-style schema (fact & dimension tables)
+---
 
-* Writing analytical SQL queries for data exploration
+## Key Features
+This SQL project covers the following analytical areas:
 
-* Using joins, aggregations, and date analysis
+- Data Exploration: Understand database structure and column metadata before analysis  
+- Dimension Exploration: Explore customer geography and product hierarchy  
+- Date Exploration: Analyze date ranges and customer age distributions  
+- Measure Exploration: Compute high-level business KPIs such as sales, quantity, average price, and customer count  
+- Key Metrics Report: Consolidate essential metrics into a single summary result set  
+- Magnitude Analysis: Evaluate distribution of customers, products, and revenue across categories and countries  
+- Ranking Analysis: Identify top-performing and bottom-performing products and customers  
+- Time-Based Trends: Track sales performance over yearly and monthly levels  
 
-* Applying EDA techniques to derive business insights
+---
+
+## Scripts Overview
+
+| Script Name | Purpose |
+|------------|---------|
+| `01_data_exploration.sql` | Explore tables and schema structure |
+| `02_dimensions_exploration.sql` | Analyze dimension attributes for customers and products |
+| `03_date_exploration.sql` | Explore sales date range and customer age |
+| `04_measure_exploration.sql` | Calculate core business measures |
+| `05_key_metrics_report.sql` | Create aggregated KPI summary report |
+| `06_magnitude_analysis.sql` | Analyze magnitude of metrics by segments |
+| `07_ranking_analysis.sql` | Rank top and bottom products and customers |
+
+---
+
+## Business Insight Examples
+This project helps answer key business questions such as:
+
+- How much total revenue has the business generated?
+- Which product categories drive the most sales?
+- Who are the top and bottom performers in terms of revenue?
+- How is customer distribution across different countries?
+- What are the sales trends over years and months?
+
+These insights are commonly required in **business intelligence**, **reporting**, and **dashboarding** roles.
+
+---
+
+## Skills Demonstrated
+This project showcases the following SQL and analytical skills:
+
+- Data exploration and metadata inspection  
+- Aggregations and grouping using `SUM`, `AVG`, and `COUNT`  
+- Joins across fact and dimension tables  
+- Ranking and sorting analysis  
+- Date and time-based trend analysis  
+- Reporting and consolidated metric views  
+
+---
+
+## Tools & Technologies
+- SQL (T-SQL compatible syntax)  
+- Data Warehouse (Fact and Dimension schema)  
+- GitHub for version control and project presentation  
+
+---
+
+## How to Use This Project
+1. Clone the repository  
+2. Connect to your SQL database  
+3. Execute each script using a SQL client such as SQL Server Management Studio or Azure Data Studio  
+4. Review query outputs to derive business insights  
+
+---
+
+## Author
+**Muzammil Shaikh**  
+Aspiring Data Analyst
