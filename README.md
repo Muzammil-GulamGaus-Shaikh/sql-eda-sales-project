@@ -18,11 +18,12 @@ This SQL project covers the following analytical areas:
 - <img width="513" height="158" alt="image" src="https://github.com/user-attachments/assets/96627f0d-870c-4e1d-ae17-c03568d40bfc" />
 - <b>Measure Exploration:</b> Compute high-level business KPIs such as sales, quantity, average price, and customer count
 - <img width="367" height="350" alt="image" src="https://github.com/user-attachments/assets/cbf1657f-138b-4b46-a445-d91fa2829e03" /> 
-- <b>Key Metrics Report:</b> Consolidate essential metrics into a single summary result set  
-- <b>Magnitude Analysis:</b> Evaluate distribution of customers, products, and revenue across categories and countries  
-- <b>Ranking Analysis:</b> Identify top-performing and bottom-performing products and customers  
-- Time-Based Trends: Track sales performance over yearly and monthly levels  
-
+- <b>Key Metrics Report:</b> Consolidate essential metrics into a single summary result set
+- <img width="309" height="219" alt="image" src="https://github.com/user-attachments/assets/a6d17b9c-d135-459d-9e1b-a5062a6abe1c" />
+- <b>Magnitude Analysis:</b> Evaluate distribution of customers, products, and revenue across categories and countries
+- <img width="327" height="232" alt="image" src="https://github.com/user-attachments/assets/95a49439-5db9-4731-8ffe-d6af36e2c14d" />
+- <b>Ranking Analysis:</b> Identify top-performing and bottom-performing products and customers
+- <img width="464" height="375" alt="image" src="https://github.com/user-attachments/assets/57f80d5a-6992-457d-853d-b5c3fb0b1dd9" />
 ---
 
 ## Scripts Overview
