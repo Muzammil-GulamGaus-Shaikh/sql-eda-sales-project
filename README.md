@@ -16,7 +16,8 @@ This SQL project covers the following analytical areas:
 - <img width="437" height="463" alt="image" src="https://github.com/user-attachments/assets/c5397f6f-5e0f-4816-97c4-8a8d74710e11" />
 - <b>Date Exploration:</b> Analyze date ranges and customer age distributions
 - <img width="513" height="158" alt="image" src="https://github.com/user-attachments/assets/96627f0d-870c-4e1d-ae17-c03568d40bfc" />
-- <b>Measure Exploration:</b> Compute high-level business KPIs such as sales, quantity, average price, and customer count  
+- <b>Measure Exploration:</b> Compute high-level business KPIs such as sales, quantity, average price, and customer count
+- <img width="367" height="350" alt="image" src="https://github.com/user-attachments/assets/cbf1657f-138b-4b46-a445-d91fa2829e03" /> 
 - <b>Key Metrics Report:</b> Consolidate essential metrics into a single summary result set  
 - <b>Magnitude Analysis:</b> Evaluate distribution of customers, products, and revenue across categories and countries  
 - <b>Ranking Analysis:</b> Identify top-performing and bottom-performing products and customers  
