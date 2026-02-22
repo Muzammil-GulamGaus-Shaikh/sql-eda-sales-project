@@ -12,7 +12,9 @@ This SQL project covers the following analytical areas:
 
 - <b>Data Exploration:</b> Understand database structure and column metadata before analysis
 - <img width="566" height="382" alt="image" src="https://github.com/user-attachments/assets/e2744096-a8f1-44d4-97a4-aac4617b0203" />
-- <b>Dimension Exploration:</b> Explore customer geography and product hierarchy  
+- <b>Dimension Exploration:</b> Explore customer geography and product hierarchy
+- <img width="437" height="463" alt="image" src="https://github.com/user-attachments/assets/c5397f6f-5e0f-4816-97c4-8a8d74710e11" />
+  
 - <b>Date Exploration:</b> Analyze date ranges and customer age distributions  
 - <b>Measure Exploration:</b> Compute high-level business KPIs such as sales, quantity, average price, and customer count  
 - <b>Key Metrics Report:</b> Consolidate essential metrics into a single summary result set  
