@@ -10,20 +10,13 @@ The focus of this project is to showcase practical SQL skills used in real busin
 ## Key Features
 This SQL project covers the following analytical areas:
 
-- <b>Data Exploration:</b> Understand database structure and column metadata before analysis
-- <img width="566" height="382" alt="image" src="https://github.com/user-attachments/assets/e2744096-a8f1-44d4-97a4-aac4617b0203" />
-- <b>Dimension Exploration:</b> Explore customer geography and product hierarchy
-- <img width="437" height="463" alt="image" src="https://github.com/user-attachments/assets/c5397f6f-5e0f-4816-97c4-8a8d74710e11" />
-- <b>Date Exploration:</b> Analyze date ranges and customer age distributions
-- <img width="513" height="158" alt="image" src="https://github.com/user-attachments/assets/96627f0d-870c-4e1d-ae17-c03568d40bfc" />
-- <b>Measure Exploration:</b> Compute high-level business KPIs such as sales, quantity, average price, and customer count
-- <img width="367" height="350" alt="image" src="https://github.com/user-attachments/assets/cbf1657f-138b-4b46-a445-d91fa2829e03" /> 
-- <b>Key Metrics Report:</b> Consolidate essential metrics into a single summary result set
-- <img width="309" height="219" alt="image" src="https://github.com/user-attachments/assets/a6d17b9c-d135-459d-9e1b-a5062a6abe1c" />
-- <b>Magnitude Analysis:</b> Evaluate distribution of customers, products, and revenue across categories and countries
-- <img width="327" height="232" alt="image" src="https://github.com/user-attachments/assets/95a49439-5db9-4731-8ffe-d6af36e2c14d" />
-- <b>Ranking Analysis:</b> Identify top-performing and bottom-performing products and customers
-- <img width="464" height="375" alt="image" src="https://github.com/user-attachments/assets/57f80d5a-6992-457d-853d-b5c3fb0b1dd9" />
+- <b>Data Exploration:</b> Understand database structure and column metadata before analysis</br> <img width="566" height="382" alt="image" src="https://github.com/user-attachments/assets/e2744096-a8f1-44d4-97a4-aac4617b0203" />
+- <b>Dimension Exploration:</b> Explore customer geography and product hierarchy</br><img width="437" height="463" alt="image" src="https://github.com/user-attachments/assets/c5397f6f-5e0f-4816-97c4-8a8d74710e11" />
+- <b>Date Exploration:</b> Analyze date ranges and customer age distributions</br><img width="513" height="158" alt="image" src="https://github.com/user-attachments/assets/96627f0d-870c-4e1d-ae17-c03568d40bfc" />
+- <b>Measure Exploration:</b> Compute high-level business KPIs such as sales, quantity, average price, and customer count</br><img width="367" height="350" alt="image" src="https://github.com/user-attachments/assets/cbf1657f-138b-4b46-a445-d91fa2829e03" /> 
+- <b>Key Metrics Report:</b> Consolidate essential metrics into a single summary result set</br><img width="309" height="219" alt="image" src="https://github.com/user-attachments/assets/a6d17b9c-d135-459d-9e1b-a5062a6abe1c" />
+- <b>Magnitude Analysis:</b> Evaluate distribution of customers, products, and revenue across categories and countries</br><img width="327" height="232" alt="image" src="https://github.com/user-attachments/assets/95a49439-5db9-4731-8ffe-d6af36e2c14d" />
+- <b>Ranking Analysis:</b> Identify top-performing and bottom-performing products and customers</br><img width="464" height="375" alt="image" src="https://github.com/user-attachments/assets/57f80d5a-6992-457d-853d-b5c3fb0b1dd9" />
 ---
 
 ## Scripts Overview
