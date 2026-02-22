@@ -10,13 +10,14 @@ The focus of this project is to showcase practical SQL skills used in real busin
 ## Key Features
 This SQL project covers the following analytical areas:
 
-- Data Exploration: Understand database structure and column metadata before analysis  
-- Dimension Exploration: Explore customer geography and product hierarchy  
-- Date Exploration: Analyze date ranges and customer age distributions  
-- Measure Exploration: Compute high-level business KPIs such as sales, quantity, average price, and customer count  
-- Key Metrics Report: Consolidate essential metrics into a single summary result set  
-- Magnitude Analysis: Evaluate distribution of customers, products, and revenue across categories and countries  
-- Ranking Analysis: Identify top-performing and bottom-performing products and customers  
+- <b>Data Exploration:</b> Understand database structure and column metadata before analysis
+- <img width="566" height="382" alt="image" src="https://github.com/user-attachments/assets/e2744096-a8f1-44d4-97a4-aac4617b0203" />
+- <b>Dimension Exploration:</b> Explore customer geography and product hierarchy  
+- <b>Date Exploration:</b> Analyze date ranges and customer age distributions  
+- <b>Measure Exploration:</b> Compute high-level business KPIs such as sales, quantity, average price, and customer count  
+- <b>Key Metrics Report:</b> Consolidate essential metrics into a single summary result set  
+- <b>Magnitude Analysis:</b> Evaluate distribution of customers, products, and revenue across categories and countries  
+- <b>Ranking Analysis:</b> Identify top-performing and bottom-performing products and customers  
 - Time-Based Trends: Track sales performance over yearly and monthly levels  
 
 ---
